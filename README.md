@@ -77,15 +77,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 - [Little OS Book](https://littleosbook.github.io/)
 - [xv6 Documentation](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 
-## License
 
-[Add your license here]
-
-## Contact
-
-[Your contact information or how to reach you]
-
-## Acknowledgments
-
-- OS Development community
-- [Add other acknowledgments]
